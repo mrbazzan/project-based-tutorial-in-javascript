@@ -2,7 +2,7 @@
 # PROJECT BASED TUTORIALS IN JAVASCRIPT
 
 1) ``change_pic``: 
-- GOAL: Change a picture when it is clicked on. Also, to work on the file structure for ``html, css and js``
+- GOAL: Change a picture when it is clicked. Also, to work on the file structure for ``html, css and js``
  --> This folder contains:
 - image folder: all the images used in the project
 - a script folder: contanins the javascript file used
