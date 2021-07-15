@@ -17,3 +17,7 @@
 4) conditional1.html
 
 5) conditional2.html
+
+6) conditional3.html
+
+7) conditional4.html
